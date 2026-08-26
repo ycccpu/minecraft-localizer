@@ -1,0 +1,19 @@
+{
+  "source": "D:/Minecraft/instances/example",
+  "output": "D:/Minecraft/instances/example-localized",
+  "api_key": "your-api-key",
+  "base_url": "https://api.openai.com/v1",
+  "model": "gpt-4.1-mini",
+  "reasoning_effort": "disabled",
+  "scan_workers": "16",
+  "process_workers": "8",
+  "api_workers": "8",
+  "glossary": "",
+  "scope_locale": true,
+  "scope_patchouli": true,
+  "scope_quests": true,
+  "scope_scripts": true,
+  "scope_config": true,
+  "scope_serverconfig": true,
+  "scope_shaders": true
+}
